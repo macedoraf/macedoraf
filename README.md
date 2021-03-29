@@ -1,6 +1,8 @@
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# Olá fique avontade a casa é sua <!img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
 Me chamo Rafael Nazareth Macedo e atualmente sou engenheiro de software e atuo com desenvolvimento Android com kotlin.
+
+💬 Me pergunte sobre android e arquitetura mobile, estou sempre disposto a ajudar e aprender junto.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=macedoraf)
 
