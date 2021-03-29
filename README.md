@@ -6,9 +6,4 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=macedoraf&show_icons=true&hide_border=true">
 
-## 🧐 About
 
-- 🌱 Languages and Tools: 
-
-
-⭐️ From [Yaronzz](https://github.com/yaronzz)
