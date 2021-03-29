@@ -1,4 +1,4 @@
-# Olá fique avontade a casa é sua <img src="https://www.vectorlogo.zone/logos/copyleft/copyleft-ar21.svg" width="27px"> 
+# Olá fique avontade a casa é sua <img src="https://www.vectorlogo.zone/logos/copyleft/copyleft-official.svg" width="20px"> 
 
 Me chamo Rafael Nazareth Macedo e atualmente sou engenheiro de software e atuo com desenvolvimento Android com kotlin.
 
