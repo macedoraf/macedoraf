@@ -8,7 +8,11 @@ Me chamo Rafael Nazareth Macedo e atualmente sou engenheiro de software e atuo c
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=macedoraf&show_icons=true&hide_border=true">
 
+
+
 💻 Sobre tecnologias e afins... 🌐 💻
+
+
 
 <p>  
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -31,4 +35,6 @@ Me chamo Rafael Nazareth Macedo e atualmente sou engenheiro de software e atuo c
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedoraf&layout=compact&count_private=true" />
 
