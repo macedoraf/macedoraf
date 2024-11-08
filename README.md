@@ -1,4 +1,5 @@
 👋 Olá / Hi
+😍 Android Native Developer and AI Engenieer
 
 ❤️ Goals for 2025
  [] Lanche a AI project
