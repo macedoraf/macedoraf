@@ -2,8 +2,8 @@
 😍 Android Native Developer and AI Engenieer
 
 ❤️ Goals for 2025
- - [] Launche a AI project
- - [] 100 followers
+ - [ ] Launche a AI project
+ - [ ] 100 followers
 
 ### Programming Language
 ![Programming Language](https://skillicons.dev/icons?i=typescript,kotlin,python,java)
