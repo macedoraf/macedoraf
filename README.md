@@ -1,6 +1,6 @@
 👋 Olá / Hi
 
-😍 Android Native Developer and AI Engenieer
+😍 Android Native Developer and AI Engineer
 
 ❤️ Goals for 2025
  - [ ] Launche a AI project
