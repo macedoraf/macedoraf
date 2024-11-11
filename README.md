@@ -3,7 +3,7 @@
 😍 Android Native Developer and AI Engineer
 
 ❤️ Goals for 2025
- - [ ] Launche a AI project
+ - [ ] Launch a AI project
  - [ ] 100 followers
 
 ### Programming Language
